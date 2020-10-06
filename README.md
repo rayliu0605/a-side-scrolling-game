@@ -1,3 +1,3 @@
 MEGA BALL! is a side-scrolling game I designed for my final project of Grade 11 computer science class. It was implemented in pygame, and it requires the installation of the win32 version of pygame 1.9.2 and python 2.7.18 (which are both provided in the directory). The graphics and sounds mostly come from the game Little Fighter 2 (lf2.net), which I used to play a lot.
 
-To play the game, one only needs to unzip the Data.zip, place main.py and Sprites.py into the folder MegaBall, and run main.py. A gameplay video is provided; the successful attemps at stage 2, 3, and the boss stage start in 2:18, 3:59, and 9:57, respectively.
+A controller is required to play the game. To start the game, one only needs to unzip the Data.zip, place main.py and Sprites.py into the folder MegaBall, and run main.py. A gameplay video is provided; the successful attemps at stage 2, 3, and the boss stage start in 2:18, 3:59, and 9:57, respectively.
